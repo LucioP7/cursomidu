@@ -1,6 +1,7 @@
 .tw-followCard {
     display: flex;
     align-items: center;
+    border: 2px solid antiquewhite;
     color: #fff;
     font-size: .8rem;
     justify-content: space-between;
